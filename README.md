@@ -1,4 +1,4 @@
 
 ![cka](cka.png)
-![ckad](ckad.avif)
-![cks](cks.png).
+![ckad](ckad.png)
+![cks](cks.png)
